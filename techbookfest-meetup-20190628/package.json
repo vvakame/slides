@@ -1,0 +1,14 @@
+{
+  "name": "techbookfest-meetup-20190119",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "vvakame",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "reveal.js": "^3.7.0"
+  },
+  "devDependencies": {}
+}
